@@ -1,75 +1,67 @@
-# 🧠 Data Science Assignments  
+# Data Science Portfolio
 
-Welcome to my **Data Science Assignments Portfolio**!  
-This repository contains all the assignments I’ve completed as part of my **ExcelR Data Science program**, covering everything from Python basics to advanced Machine Learning and Time Series.
+Welcome! 👋 This repository showcases my **Data Science assignments and projects**, demonstrating skills in Python, statistics, machine learning, EDA, and time series analysis.
 
 ---
 
-## 📁 Folder Structure  
+## 📂 Folder Structure
 
-```text
-data-science-assignments/
-│
-├── 00_Basics_Python/
-│   └── Basics of Python
-│
-├── 01_Basic_Statistics/
-│   ├── Basic Statistics Level 1 & 2
-│   └── Hypothesis Testing
-│
-├── 02_EDA/
-│   ├── EDA 1 - Titanic Dataset
-│   └── EDA 2 - Adult Income Dataset
-│
-├── 03_Machine_Learning/
-│   ├── MLR
-│   ├── Logistic Regression
-│   ├── Clustering
-│   ├── PCA
-│   ├── Association Rules
-│   ├── Recommendation System
-│   ├── Decision Tree
-│   ├── Random Forest
-│   ├── XGBM & LGBM
-│   ├── KNN
-│   ├── SVM
-│   ├── Neural Networks
-│   └── Naive Bayes & Text Mining
-│
-└── 04_Time_Series/
-    └── Time Series Forecasting
+- [00_Basics_Python](./00_Basics_Python) – Basics of Python
+- [01_Basic_Statistics](./01_Basic_Statistics) – Descriptive & Inferential Statistics, Hypothesis Testing
+- [02_EDA](./02_EDA) – Exploratory Data Analysis (EDA) projects: Titanic & Adult Income datasets
+- [03_Machine_Learning](./03_Machine_Learning) – Machine learning algorithms:
+  - MLR, Logistic Regression
+  - Clustering
+  - PCA
+  - Association Rules
+  - Recommendation Systems
+  - Decision Tree, Random Forest
+  - XGBM & LGBM
+  - KNN, SVM, Neural Networks
+  - Naive Bayes & Text Mining
+- [04_Time_Series](./04_Time_Series) – Time Series Forecasting projects
 
-🚀 Skills Covered
+---
 
-Python Programming
+## 🚀 Skills Covered
 
-Descriptive & Inferential Statistics
+- **Python Programming**  
+- **Descriptive & Inferential Statistics**  
+- **Exploratory Data Analysis (EDA)**  
+- **Machine Learning Algorithms**  
+- **Feature Engineering**  
+- **Model Evaluation & Optimization**  
+- **Time Series Forecasting**  
+- **Data Visualization**
 
-Exploratory Data Analysis (EDA)
+---
 
-Machine Learning Algorithms
+## 🔍 Upcoming Projects
 
-Feature Engineering
+- 🧩 **Titanic Survival Prediction** (Streamlit App + Model Deployment)  
+- 💼 **Adult Income Classification** (EDA + Model Comparison)  
+- 🎬 **Recommendation System** (Content-Based Filtering)
 
-Model Evaluation & Optimization
+---
 
-Time Series Forecasting
+## 🛠 Tools & Technologies
 
-Data Visualization
+- Python 3.x  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn, XGBoost, LightGBM  
+- Statsmodels  
+- Jupyter Notebook  
 
-🔍 Upcoming Projects
+---
 
-🧩 Titanic Survival Prediction (Streamlit App + Model Deployment)
+## 📫 Contact
 
-💼 Adult Income Classification (EDA + Model Comparison)
+- **Name:** Venkatesh Avuluri  
+- **Email:** [venkateshavuluri3@gmail.com](mailto:venkateshavuluri3@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/venkatesh-avuluri-250048329](https://www.linkedin.com/in/venkatesh-avuluri-250048329)  
+- **GitHub:** [github.com/venkystech](https://github.com/venkystech)
 
-🎬 Recommendation System (Content-Based Filtering)
+---
 
-📫 Contact
-
-Venkatesh Avuluri
-📧 venkateshavuluri3@gmail.com
-
-🔗 www.linkedin.com/in/venkatesh-avuluri-250048329
-
-🔗 GitHub
+✨ This repository demonstrates my **data science skills, analytical thinking, and problem-solving abilities**. Feel free to explore the notebooks and datasets!
